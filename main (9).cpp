@@ -1,0 +1,13 @@
+
+//7. WAP to print “%d” on the screen.
+//8. WAP to print “\n” on the screen.
+//9. WAP to print “\\” on the screen.#include<stdio.h>
+#include <stdio.h>
+
+int main(){
+    printf("%%d");
+  
+    return 0;
+}
+
+// Output:Ineuron
